@@ -1,4 +1,4 @@
-**TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
+**Lee el mensaje entero, o no podrás tener acceso al resto de los canales del servidor.**
 
 Hola amigo! Bienvenido al servidor de Discord de Coding Garden.
 
