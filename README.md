@@ -1,5 +1,8 @@
 >Hey! We need your help translating this message into other languages. See the [CONTRIBUTING](./CONTRIBUTING.md) doc for more details.
 
+* Español: Para leer este mensaje en español, haga clic [aquí](./README_SPANISH.md).
+* Suomalainen: Lue tämä viesti suomeksi napsauttamalla [tätä](./README_FINNISH.md).
+
 **TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
 
 Hello friend! Welcome to the Coding Garden Discord server.

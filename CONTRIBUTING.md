@@ -2,7 +2,7 @@
 
 The Coding Garden community has people that speak many different languages! You can help by translating the welcome message and code of conduct in the [README.md](./README.md) into your native language.
 
-## How To
+## How To Add Your Native Language
 
 1. Fork / clone this repo.
 1. Make a copy of the [README.md](./README.md) file and rename it to `README_LANGUAGE.md`. For example, rename it to: `README_SPANISH.md`
@@ -11,12 +11,20 @@ The Coding Garden community has people that speak many different languages! You 
 1. Add, Commit and Push to github.
 1. Open a pull request on this repo.
 
-## Needed Translations
+## How To Propose A Translation / Grammar Fix
 
-* [ ] Spanish
+1. Fork / clone this repo.
+1. Update the given `README_LANGUAGE.md` file with your proposed translation / grammar fix.
+1. Add, Commit and Push to github.
+1. Open a pull request on this repo.
+
+## Translations
+
+* [x] Spanish
+* [x] Finnish
+* [ ] German
 * [ ] Hindi-Urdu
 * [ ] Russian
-* [ ] German
 * [ ] French
 * [ ] Italian
 * [ ] Turkish
