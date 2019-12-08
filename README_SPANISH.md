@@ -1,6 +1,6 @@
 **Lee el mensaje entero, o no podrás tener acceso al resto de los canales del servidor.**
 
-¡Hola amigo! Bienvenido al servidor de Discord de Coding Garden.
+¡Hola amigo(a)! Bienvenido(a) al servidor de Discord de Coding Garden.
 
 Para tener acceso al resto de los canales, debes presentarte en #🗣introductions (mínimo 40 caracteres) y aceptar el código de conducta reaccionando con un emoticono :point_down:.
 
