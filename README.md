@@ -3,6 +3,7 @@
 * Español: Para leer este mensaje en español, haga clic [aquí](./README_SPANISH.md).
 * Deutsch: Um diese Nachricht auf Deutsch zu lesen, klicken Sie [hier](./README_GERMAN.md).
 * Suomalainen: Lue tämä viesti suomeksi napsauttamalla [tätä](./README_FINNISH.md).
+* Norsk: For å lese denne meldingen på Norsk, klikk [her](./README_NORWEGIAN.md).
 
 **TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
 
