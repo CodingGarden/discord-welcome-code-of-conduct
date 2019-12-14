@@ -22,7 +22,7 @@ The Coding Garden community has people that speak many different languages! You 
 
 * [x] Spanish
 * [x] Finnish
-* [ ] German
+* [x] German
 * [ ] Hindi-Urdu
 * [ ] Russian
 * [ ] French
