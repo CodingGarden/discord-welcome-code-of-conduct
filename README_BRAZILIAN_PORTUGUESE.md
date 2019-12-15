@@ -14,11 +14,11 @@ Antes de postar uma mensagem, por favor, pense por 30 segundos para decidir qual
 * Encontre alguém para colaborar em #👫find-a-pair 
 * Peça ajuda sobre katas / desafios do código em #🤓code-kata-help 
 * Peça ajuda sobre vídeos / transmissões específicos em #📺video-help 
-* Ask for general coding help in #🌈general-help 
-* Ask for specific coding help in #🖥front-end-help or #⏮back-end-help 
+* Peça ajuda sobre codigo em geral em #🌈general-help 
+* Peça ajuda sobre codigo específico em #🖥front-end-help ou #⏮back-end-help 
 * Faça perguntas diretas a CJ em #🤔ask_me_anything (se for uma pergunta de ajuda, um dos outros canais de ajuda pode ser mais adequado)
-* General discussion can go in #💬general  
-* Anything off topic or no topic goes in #🎲random 
+* Discussão em geral pode entrar em #💬general  
+* Qualquer coisa fora de tópico ou nenhum tópico entra em #🎲random 
 
 O código dos vídeos / streams pode ser encontrado no github: <https://github.com/CodingGarden>
 
@@ -34,24 +34,24 @@ Adesivos e Produtos podem ser encontrados no RedBubble: <https://www.redbubble.c
 
 Ao se inscrever e enviar mensagens neste servidor, você concorda em cumprir o código de conduta. Qualquer violação do código de conduta pode resultar em Expulsão ou Banimento temporário, a critério dos moderadores (pruners). Seja Gentil!
 
-* **Be mindful of your language.** Qualquer um dos seguintes comportamentos é inaceitável: 
-  * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
+* **Seja cuidadoso com o que você fala.** Qualquer um dos seguintes comportamentos é inaceitável: 
+  * Comentários ofensivos relacionados à identidade e expressão de gênero, orientação sexual, raça, etnia, idioma, neurótipo, tamanho, habilidade, classe, religião, cultura, subcultura, opinião política, idade, nível de habilidade, ocupação ou formação
   * Ameaças de violência
   * Intimidação deliberada
   * Material sexualmente explícito ou violento
   * Atenção sexual indesejada
-  * Stalking or following
+  * Perseguindo ou seguindo
   * Ou qualquer outro tipo de assédio
 
-  Use your best judgement. If it will possibly make others uncomfortable, do not post it.
+  Use o bom senso. Se possivelmente deixar outras pessoas desconfortáveis, não publique.
 
-* **Be respectful.** Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care. 
-* **Be considerate.** Think about how your contribution will affect others in the community. 
-* **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
+* **Seja respeitoso.** Desacordo não é uma oportunidade de atacar os pensamentos ou opiniões de outras pessoas. Embora as opiniões possam ser diferentes, lembre-se de abordar todas as situações com paciência e cuidado. 
+* **Seja atencioso.** Pense em como sua contribuição afetará outras pessoas da comunidade. 
+* **Seja mente aberta.** Abrace novas pessoas e novas idéias. Nossa comunidade está em constante evolução e aceitamos mudanças positivas.
 
-If you believe someone is violating the code of conduct, we ask that you report it by messaging a moderator (pruner). Please include your name and a description of the incident, and we will get back to you ASAP.
+Se você acredita que alguém está violando o código de conduta, solicitamos que você o denuncie enviando mensagens a um moderador (pruners). Inclua seu nome e uma descrição do incidente, e entraremos em contato com você o mais rápido possível.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, this may result in a kick or temporary ban at the moderators discretion. BE KIND!
+Os participantes solicitados a interromper qualquer comportamento de assédio devem cumprir imediatamente. Se um participante se envolver em comportamento de assédio, isso poderá resultar em expulsão ou banimento temporário, a critério dos moderadores. SEJA GENTIL!
 
 **Antes** de postar uma mensagem, pense por 30 segundos para decidir qual canal é o mais adequado para essa mensagem. Veja as descrições dos canais acima.
 
