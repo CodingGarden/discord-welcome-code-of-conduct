@@ -24,6 +24,7 @@ The Coding Garden community has people that speak many different languages! You 
 * [x] Finnish
 * [x] German
 * [x] Norwegian
+* [x] Sesotho
 * [ ] Hindi-Urdu
 * [ ] Russian
 * [ ] French
