@@ -38,11 +38,11 @@ Stickers and merch can be found on RedBubble: <https://www.redbubble.com/people/
 
 :point_down:  Be sure to read and acknowledge the Code of Conduct message below.
 
-**Code of Conduct**
+### **Code of Conduct**
 
 By signing up and sending messages on this server, you agree to abide by the code of conduct. Any violations of the code of conduct may result in a kick or temporary ban at the moderators (pruners) discretion. Be kind!
 
-* **Be mindful of your language.** Any of the following behavior is unacceptable: 
+1. **Be mindful of your language.** Any of the following behavior is unacceptable: 
   * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
   * Threats of violence
   * Deliberate intimidation
@@ -53,9 +53,9 @@ By signing up and sending messages on this server, you agree to abide by the cod
 
   Use your best judgement. If it will possibly make others uncomfortable, do not post it.
 
-* **Be respectful.** Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care. 
-* **Be considerate.** Think about how your contribution will affect others in the community. 
-* **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
+2. **Be respectful.** Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care. 
+3. **Be considerate.** Think about how your contribution will affect others in the community. 
+4. **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 
 If you believe someone is violating the code of conduct, we ask that you report it by messaging a moderator (pruner). Please include your name and a description of the incident, and we will get back to you ASAP.
 
