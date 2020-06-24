@@ -1,12 +1,5 @@
 >Ahoj! Potřebujeme tvou pomoc s překladem této stránky do jiných jazyků. Podívej se na [CONTRIBUTING](./CONTRIBUTING.md) pro více informací.
 
-* Español: Para leer este mensaje en español, haga clic [aquí](./README_SPANISH.md).
-* Deutsch: Um diese Nachricht auf Deutsch zu lesen, klicken Sie [hier](./README_GERMAN.md).
-* Suomalainen: Lue tämä viesti suomeksi napsauttamalla [tätä](./README_FINNISH.md).
-* Norsk: For å lese denne meldingen på Norsk, klikk [her](./README_NORWEGIAN.md).
-* Sotho: Ho bala molaetsa ona ka Sesotho, tobetsa [mona](./README_SESOTHO.md)
-* Čeština: Chceš-li tuto zprávu přečíst v češtině, klikni [zde](./README_CZECH.md)
-
 **TLDR** - **Přečti si celou zprávu, jinak nebudeš moci získat přístup ke zbytku kanálů na tomto serveru.**
 
 Ahoj příteli! Vítej na Coding Garden Discord serveru.
