@@ -4,7 +4,8 @@
 * Deutsch: Um diese Nachricht auf Deutsch zu lesen, klicken Sie [hier](./README_GERMAN.md).
 * Suomalainen: Lue tämä viesti suomeksi napsauttamalla [tätä](./README_FINNISH.md).
 * Norsk: For å lese denne meldingen på Norsk, klikk [her](./README_NORWEGIAN.md).
-* Sotho: Ho bala molaetsa ona ka Sesotho, tobetsa [mona](./README_SESOTHO.md)
+* Sotho: Ho bala molaetsa ona ka Sesotho, tobetsa [mona](./README_SESOTHO.md).
+* Slovenščina: Če želite prebrati to sporočilo v slovenščini, kliknite [tukaj](./README_SLOVENIAN.md).
 * Русский: Чтобы прочитать это сообщение на русском, жми [здесь](./README_RUSSIAN.md).
 
 **TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
