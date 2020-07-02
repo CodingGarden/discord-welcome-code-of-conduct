@@ -8,12 +8,13 @@
 * Čeština: Chceš-li tuto zprávu přečíst v češtině, klikni [zde](./README_CZECH.md)
 * Slovenščina: Če želite prebrati to sporočilo v slovenščini, kliknite [tukaj](./README_SLOVENIAN.md).
 * Русский: Чтобы прочитать это сообщение на русском, жми [здесь](./README_RUSSIAN.md).
+* தமிழ்: இந்த செய்தியை தமிழ் மொழியில் படிக்க,கிளிக் செய்க [இங்கே](./README_TAMIL.md).
 
 **TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
 
 Hello friend! Welcome to the Coding Garden Discord server.
 
-Before you can gain access to the rest of the channels, you must Introduce yourself in #🗣introductions (at least 40 characters) and acknowledge that you have read the code of conduct below by emoji reacting below :point_down:.
+Before you can gain access to the rest of the channels, you must Introduce yourself in #🗣introductions (at least 40 characters) and acknowledge that you have read the code of conduct below by emoji reacting below 👇.
 
 Before posting a message, please take exactly 30 seconds to decide what channel is the best fit for that message:
 **DO NOT POST THE SAME MESSAGE IN MULTIPLE CHANNELS.** We will see your message and get back to you when we have the time.
@@ -39,7 +40,7 @@ Become a patron with a $5 monthly donation: <https://www.patreon.com/CodingGarde
 
 Stickers and merch can be found on RedBubble: <https://www.redbubble.com/people/w3cj/collections/907384-coding-garden-with-cj>
 
-:point_down:  Be sure to read and acknowledge the Code of Conduct message below.
+👇 Be sure to read and acknowledge the Code of Conduct message below.
 
 ### **Code of Conduct**
 
@@ -66,4 +67,4 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 **Before** posting a message, take exactly 30 seconds to decide what channel is the best fit for that message. See the channel descriptions above.
 
-React with an emoji to acknowledge that you have read this message and agree to follow the code of conduct! :point_down:
+React with an emoji to acknowledge that you have read this message and agree to follow the code of conduct! 👇
