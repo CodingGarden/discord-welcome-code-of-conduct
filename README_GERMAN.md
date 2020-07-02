@@ -47,7 +47,7 @@ Indem du diesen Server betrittst oder Nachrichten schreibst, stimmst du dabei zu
 
   Verwende dein bestes Urteilsvermögen. Wenn es andere Unkomfortabel machen könnte, sende es nicht ab.
 
-* **Sei Respektvoll.** Meinungsverschiedenheiten sind keine Gelegenheit, die Gedanken oder Meinungen anderer anzugreifen. Auch wenn Meinungen sich underscheiden können, achte darauf, jede Situation mit Geduld und Pflege anzugehen. 
+* **Sei Respektvoll.** Meinungsverschiedenheiten sind keine Gelegenheit, die Gedanken oder Meinungen anderer anzugreifen. Auch wenn Meinungen sich unterscheiden können, achte darauf, jede Situation mit Geduld und Pflege anzugehen. 
 * **Sei rücksichtsvoll.** Denke darüber nach, wie dein Beitrag in der Community ankommen wird. 
 * **Sei aufgeschlossen.** Umfasse neue Leute und neue Ideen. Unsere Community evolutioniert ständig, und positive Änderungen sind willkommen.
 
