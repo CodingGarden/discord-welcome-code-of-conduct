@@ -44,7 +44,7 @@ Stickers and merch can be found on RedBubble: <https://www.redbubble.com/people/
 
 ### **Code of Conduct**
 
-By signing up and sending messages on this server, you agree to abide by the code of conduct. Any violations of the code of conduct may result in a kick or temporary ban at the moderators (pruners) discretion. Be kind!
+By signing up and sending messages on this server, you agree to abide by the code of conduct. Any violations of the code of conduct may result in a kick or temporary ban at the moderators' (pruners) discretion. Be kind!
 
 1. **Be mindful of your language.** Any of the following behavior is unacceptable: 
   * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
@@ -63,7 +63,7 @@ By signing up and sending messages on this server, you agree to abide by the cod
 
 If you believe someone is violating the code of conduct, we ask that you report it by messaging a moderator (pruner). Please include your name and a description of the incident, and we will get back to you ASAP.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, this may result in a kick or temporary ban at the moderators discretion. BE KIND!
+Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, this may result in a kick or temporary ban at the moderators' discretion. BE KIND!
 
 **Before** posting a message, take exactly 30 seconds to decide what channel is the best fit for that message. See the channel descriptions above.
 
