@@ -9,6 +9,7 @@
 * Slovenščina: Če želite prebrati to sporočilo v slovenščini, kliknite [tukaj](./README_SLOVENIAN.md).
 * Русский: Чтобы прочитать это сообщение на русском, жми [здесь](./README_RUSSIAN.md).
 * தமிழ்: இந்த செய்தியை தமிழ் மொழியில் படிக்க,கிளிக் செய்க [இங்கே](./README_TAMIL.md).
+* Français : Pour lire ce message en français, clique [ici](./README_FRENCH.md).
 
 **TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
 
