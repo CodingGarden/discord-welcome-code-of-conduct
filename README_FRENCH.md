@@ -20,7 +20,7 @@ Avant de poster un message, veille à prendre exactement 30 secondes pour décid
 * Les discussions générales peuvent aller dans #💬general  
 * Tout ce qui est hors-sujet ou sans sujet vont dans #🎲random 
 
-Le code des vidéos/livestreams peut être trouvé sur github: <https://github.com/CodingGarden>
+Le code des vidéos/livestreams peut être trouvé sur github : <https://github.com/CodingGarden>
 
 Pour faire un don : <https://streamlabs.com/CodingGardenWithCJ>
 
@@ -51,8 +51,8 @@ En t'inscrivant et en envoyant des messages sur ce serveur, tu acceptes de te so
 
 Si tu crois que quelqu'un est entrain de violer le code de conduite, nous te demandons de le faire savoir en envoyant un messsage à un modérateur (pruners). Veille à inclure ton nom et la description de l'incident et nous reviendrons vers toi dès que possible.
 
-Les participants invités à mettre fin à tout comportement de harcèlement doivent s'y conformer immédiatement. Si un(e) participant(e) se livre à un comportement de harcèlement, cela peut entraîner une expuslion ou un banissement temporaire à la discrétion des modérateurs. SOIS GENTIL(LE) !
+Les participants invités à mettre fin à tout comportement de harcèlement doivent s'y conformer immédiatement. Si un(e) participant(e) se livre à un comportement de harcèlement, cela peut entraîner une expulsion ou un banissement temporaire à la discrétion des modérateurs. SOIS GENTIL(LE) !
 
 **Avant** de poster un message, prends exactement 30 secondes pour décider dans quel salon ton message correspondra le mieux. Réfère-toi à la description des salons plus haut.
 
-Réagis avec un emoji pour reconnapitre que tu as lu le message et que tu acceptes de suivre le code de conduite ! 👇
+Réagis avec un emoji pour reconnaître que tu as lu(e) le message et que tu acceptes de suivre le code de conduite ! 👇
