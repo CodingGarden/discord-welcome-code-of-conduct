@@ -1,12 +1,10 @@
-> Salut ! On a besoin de ton aide pour traduire ce message dans d'autres langues. Regarde la documentation dans [CONTRIBUTING](./CONTRIBUTING.md) pour plus de détails.
-
-**En résumé** - **Lis le message en entier ou tu ne pourras pas accéder au reste des salons textuels et vocaux de ce serveur.**
+**Pour résumer** - **Lis le message en entier où tu ne pourras pas accéder au reste des salons textuels et vocaux de ce serveur.**
 
 Salut l'ami(e) ! Bienvenue sur le serveur Discord de Coding Garden.
 
-Avant de pouvoir accéder au reste des salons textuels, tu dois te présenter dans le salon #🗣introductions (au minimum 40 caractères) et reconnaître que tu as lu le code de conduite ci-dessous en ajoutant un emoji en réaction au message ci-dessous 👇.
+Avant de pouvoir accéder au reste des salons textuels, tu dois te présenter dans le salon #🗣introductions (au minimum 40 caractères) et reconnaître que tu as lu(e) le code de conduite ci-dessous en ajoutant un emoji en réaction au message ci-dessous 👇.
 
-Avant de poster un message, veille à prendre exactement 30 secondes pour décider dans quel salon ton message correspondra le mieux:
+Avant de poster un message, veille à prendre exactement 30 secondes pour décider dans quel salon ton message correspondra le mieux :
 **NE POSTE PAS LE MÊME MESSAGE DANS PLUSIEURS SALONS.** Nous verrons ton message et nous reviendrons vers toi dès que possible.
 
 * Suivre les diffusions en direct dans #🔴live-chat 
