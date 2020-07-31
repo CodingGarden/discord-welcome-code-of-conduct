@@ -1,4 +1,4 @@
-**Pour résumer** - **Lis le message en entier où tu ne pourras pas accéder au reste des salons textuels et vocaux de ce serveur.**
+**Pour résumer** - **Lis le message en entier ou tu ne pourras pas accéder au reste des salons textuels et vocaux de ce serveur.**
 
 Salut l'ami(e) ! Bienvenue sur le serveur Discord de Coding Garden.
 
