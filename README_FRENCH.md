@@ -55,4 +55,4 @@ Les participants invités à mettre fin à tout comportement de harcèlement doi
 
 **Avant** de poster un message, prends exactement 30 secondes pour décider dans quel salon ton message aura la meilleure place. Réfère-toi à la description des salons plus haut.
 
-Réagis avec un emoji pour reconnaître que tu as lu·e le message et que tu acceptes de suivre le code de conduite ! 👇
+Réagis avec un emoji pour reconnaître que tu as lu le message et que tu acceptes de suivre le code de conduite ! 👇
