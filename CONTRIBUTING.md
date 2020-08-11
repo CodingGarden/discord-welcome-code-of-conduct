@@ -20,18 +20,18 @@ The Coding Garden community has people that speak many different languages! You 
 
 ## Translations
 
-* [x] Spanish
-* [x] Finnish
-* [x] German
-* [x] Norwegian
-* [x] Sesotho
-* [x] Slovenian
-* [x] Russian
-* [ ] Hindi-Urdu
-* [ ] French
-* [ ] Italian
-* [ ] Turkish
-* [ ] Mandarin Chinese
-* [ ] Any other language...
+- [x] Spanish
+- [x] Finnish
+- [x] German
+- [x] Norwegian
+- [x] Sesotho
+- [x] Slovenian
+- [x] Russian
+- [ ] Hindi-Urdu
+- [ ] French
+- [x] Italian
+- [ ] Turkish
+- [ ] Mandarin Chinese
+- [ ] Any other language...
 
->If your native language is not listed here, a pull request is still welcome!
+> If your native language is not listed here, a pull request is still welcome!
