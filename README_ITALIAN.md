@@ -7,18 +7,18 @@ Prima di ottenere l'accesso agli altri canali, devi presentarti nel canale #🗣
 Prima di scrivere un messaggio, per favore prenditi 30 secondi per decidere quale canale e' quello che fa al caso tuo:
 **NON PUBBLICARE LO STESSO MESSAGIO IN PIU' CANALI.** Noi guarderemo il tuo messaggio e ti risponderemo il prima possibile.
 
-- Segui il live stream in #🔴live-chat
-- Condividi qualcosa a cui stai lavorando in #🎨share_work
-- Condividi tutorial o articoli che hai trovato utili in #📖share_resources
-- Suggerisci un argomento per il live stream o per un video in #💭stream-suggestions
-- Trova qualcuno con cui collaborare in #👫find-a-pair
-- Chiedi aiuto riguardo a code katas/challenges in #🤓code-kata-help
-- Chiedi aiuto riguardo specifici video/stream in #📺video-help
-- Chiedi aiuto generico riguardo al codice in #🌈general-help
-- Chiedi aiuto specifico riguardo al codice rispettivamente in #🖥front-end-help o in #⏮back-end-help
-- Chiedi domande dirette a CJ in #🤔ask_me_anything (se e' una richiesta d'aiuto, uno degli altri canali potrebbe essere piu' idoneo)
-- Discussioni generali possono esssere fatte in #💬general
-- Qualsiasi cosa off topic va in #🎲random
+* Segui il live stream in #🔴live-chat
+* Condividi qualcosa a cui stai lavorando in #🎨share_work
+* Condividi tutorial o articoli che hai trovato utili in #📖share_resources
+* Suggerisci un argomento per il live stream o per un video in #💭stream-suggestions
+* Trova qualcuno con cui collaborare in #👫find-a-pair
+* Chiedi aiuto riguardo a code katas/challenges in #🤓code-kata-help
+* Chiedi aiuto riguardo specifici video/stream in #📺video-help
+* Chiedi aiuto generico riguardo al codice in #🌈general-help
+* Chiedi aiuto specifico riguardo al codice rispettivamente in #🖥front-end-help o in #⏮back-end-help
+* Chiedi domande dirette a CJ in #🤔ask_me_anything (se e' una richiesta d'aiuto, uno degli altri canali potrebbe essere piu' idoneo)
+* Discussioni generali possono esssere fatte in #💬general
+* Qualsiasi cosa off topic va in #🎲random
 
 I sorgenti dei video/stream li puoi trovare su github: <https://github.com/CodingGarden>
 
@@ -36,13 +36,13 @@ Entrando e scrivendo su questo server, accetti di seguire il codice di condotta.
 
 1. **Fai attenzione al tuo linguaggio.** Qualsiasi dei seguenti comportamenti e' inaccettabile:
 
-- Commenti offensivi riguardo a identita' di genere e espressione, orientamento sessuale, razza, etnia, lingua, patologie psicologiche, taglia, disabilita', classe, religione, cultura, sottocultura, opinione politica, eta', livello di abilita', occupazione, o background
-- Minacce di violenza
-- Intimidazioni deliberate
-- Materiale esplicito (sessuale o violento)
-- Attenzioni sessuali non gradite
-- Stalking o pedinamenti
-- O qualsiasi altro tipo di molestia
+* Commenti offensivi riguardo a identita' di genere e espressione, orientamento sessuale, razza, etnia, lingua, patologie psicologiche, taglia, disabilita', classe, religione, cultura, sottocultura, opinione politica, eta', livello di abilita', occupazione, o background
+* Minacce di violenza
+* Intimidazioni deliberate
+* Materiale esplicito (sessuale o violento)
+* Attenzioni sessuali non gradite
+* Stalking o pedinamenti
+* O qualsiasi altro tipo di molestia
 
 Usate il vostro buon senso. Se può mettere a disagio gli altri, non pubblicatelo.
 
