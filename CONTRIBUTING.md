@@ -31,7 +31,7 @@ The Coding Garden community has people that speak many different languages! You 
 * [ ] Hindi-Urdu
 * [ ] French
 * [ ] Italian
-* [ ] Turkish
+* [x] Turkish
 * [ ] Mandarin Chinese
 * [ ] Any other language...
 
