@@ -18,7 +18,7 @@ Bevor du eine Nachricht absendest, nimm dir bitte 30 Sekunden Zeit, um zu entsch
 * Frage nach Hilfe zu spezifischen Videos/Streams in #📺video-help 
 * Frage nach allgemeiner Coding-Hilfe in #🌈general-help 
 * Frage nach genauer Coding-Hilfe in #🖥front-end-help bzw. #⏮back-end-help 
-* Frage CJ direkte Fragen in #🤔ask_me_anything (Falls es eine Hilfe-frage ist, ist vielleicht einer der anderen Channels besser geeignet)
+* Frage CJ direkte Fragen in #🤔ask_me_anything (Falls es eine Hilfe-Frage ist, ist vielleicht einer der anderen Channels besser geeignet)
 * Allgemeine Diskussion kommt in #💬general  
 * Alles, was Off-Topic oder ohne Topic ist, kann nach #🎲random 
 
@@ -45,16 +45,16 @@ Indem du diesen Server betrittst oder Nachrichten schreibst, stimmst du dabei zu
   * Stalking oder Verfolgung
   * oder andere Arten von Belästigung
 
-  Verwende dein bestes Urteilsvermögen. Wenn es andere Unkomfortabel machen könnte, sende es nicht ab.
+  Verwende dein bestes Urteilsvermögen. Wenn es für andere unangenehm sein könnte, sende es nicht ab.
 
-* **Sei Respektvoll.** Meinungsverschiedenheiten sind keine Gelegenheit, die Gedanken oder Meinungen anderer anzugreifen. Auch wenn Meinungen sich unterscheiden können, achte darauf, jede Situation mit Geduld und Pflege anzugehen. 
+* **Sei Respektvoll.** Meinungsverschiedenheiten sind keine Gelegenheit, die Gedanken oder Meinungen anderer anzugreifen. Auch wenn Meinungen sich unterscheiden können, achte darauf, jede Situation mit Geduld und Vorsicht anzugehen. 
 * **Sei rücksichtsvoll.** Denke darüber nach, wie dein Beitrag in der Community ankommen wird. 
-* **Sei aufgeschlossen.** Umfasse neue Leute und neue Ideen. Unsere Community evolutioniert ständig, und positive Änderungen sind willkommen.
+* **Sei aufgeschlossen.** Umfasse neue Leute und neue Ideen. Unsere Community entwickelt sich ständig weiter und positive Änderungen sind willkommen.
 
 Wenn du denkst, dass jemand gegen den Verhaltenskodex verstößt, bitten wir dich, das einem Moderator (Pruner) zu melden. Bitte gebe deinen Namen an, und eine Beschreibung des Vorfalls, und wir werden uns so schnell wie möglich zurückmelden.
 
-Teilnehmer, die gegen Richtlinien verstoßen, und gebeten werden, aufzuhören, sollten es sofort tun. Falls ein Teilnehmer sich belästigend verhält, könnte es in Konsequenzen wie einem Kick oder temporären Ban nach Ermessen der Moderatoren erfolgen. Sei nett!
+Teilnehmer, die gegen Richtlinien verstoßen und gebeten werden aufzuhören, sollten es sofort tun. Falls ein Teilnehmer sich belästigend verhält, könnte es zu Konsequenzen, wie einem Kick oder temporären Ban nach Ermessen der Moderatoren, führen. SEI NETT!
 
-**Bevor** du eine Nachricht absendest, nehme dir genau 30 Sekunden um zu Entscheiden, welcher Channel am besten dafür geeignet ist. Siehe Kanalbeschreibungen weiter oben.
+**Bevor** du eine Nachricht absendest, nehme dir genau 30 Sekunden Zeit, um zu Entscheiden, welcher Channel am besten dafür geeignet ist. Siehe Kanalbeschreibungen weiter oben.
 
 Reagiere mit einem Emoji, um mitzuteilen, dass du den Verhaltenskodex gelesen hast und dem zustimmst! 👇
