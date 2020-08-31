@@ -30,9 +30,9 @@ The Coding Garden community has people that speak many different languages! You 
 * [x] Macedonian
 * [ ] Hindi-Urdu
 * [ ] French
-* [ ] Italian
+* [x] Italian
 * [x] Turkish
 * [ ] Mandarin Chinese
 * [ ] Any other language...
 
->If your native language is not listed here, a pull request is still welcome!
+> If your native language is not listed here, a pull request is still welcome!
