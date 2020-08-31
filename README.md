@@ -11,7 +11,9 @@
 * தமிழ்: இந்த செய்தியை தமிழ் மொழியில் படிக்க,கிளிக் செய்க [இங்கே](./README_TAMIL.md).
 * Français : Pour lire ce message en français, clique [ici](./README_FRENCH.md).
 * Nederlands: Om dit bericht te lezen in het Nederlands, [klik hier](./README_NEDERLANDS.md)
-* Italiano: Per leggere questo messaggio in italiano, [clicca qui](./README_ITALIAN.md)
+* Türkçe: Bu mesajı Türkçe okumak için [buraya tıkla](./README_TURKISH.md)
+* Македонски: За да ја прочитате оваа порака на Македонски, [кликнете тука](./README_MACEDONIAN.md)
+* Українська: Щоб прочитати це повідомлення на українській мові, жми [тут](./README_UKRAINIAN.md).
 
 **TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
 
