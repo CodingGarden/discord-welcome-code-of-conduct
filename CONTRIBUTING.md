@@ -32,7 +32,7 @@ The Coding Garden community has people that speak many different languages! You 
 * [ ] French
 * [ ] Italian
 * [x] Turkish
-* [ ] Mandarin Chinese
+* [x] Simplified Chinese
 * [ ] Any other language...
 
 >If your native language is not listed here, a pull request is still welcome!

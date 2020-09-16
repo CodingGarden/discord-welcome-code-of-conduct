@@ -14,6 +14,7 @@
 * Türkçe: Bu mesajı Türkçe okumak için [buraya tıkla](./README_TURKISH.md)
 * Македонски: За да ја прочитате оваа порака на Македонски, [кликнете тука](./README_MACEDONIAN.md)
 * Українська: Щоб прочитати це повідомлення на українській мові, жми [тут](./README_UKRAINIAN.md).
+* 简体中文: 用简体中文阅读消息, 点击 [这里](./README_SIMPLIFIED_CHINESE.md)
 
 **TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
 
