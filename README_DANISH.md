@@ -34,7 +34,6 @@ Inden du sender din besked, vær venlig at bruge 30 sekunder på at finde ud af,
 - Spørg for hjælp angående en specifik video/stream i #📺video-help
 - Spørg for general kode hjælp i #🌈general-help
 - Har du et spørgsmål angående en specifik kode, spørg i #🖥front-end-help eller #⏮back-end-help
-- Ask CJ direct questions in #🤔ask_me_anything (if it is a help question, one of the other help channels might be better suited)
 - Har du et spørgsmål direkte til CJ, skriv det i #🤔ask_me_anything (Hvis det ikke er specifikt til CJ, så er en af de andre kanaler bedre)
 - General diskussion foregår i #💬general
 - Alt off topic skal sendes i #🎲random
@@ -66,12 +65,10 @@ Ved at tilmelde dig og sende meddelelser på denne server accepterer du at overh
 Brug din sunde fornuft. Hvis det muligvis vil støde andre, skal du ikke sende det.
 
 2. **Vær respektfuld** Uenighed er ikke en mulighed for at angribe en andens tanker eller meninger. Selvom synspunkter kan være forskellige, skal du huske at nærme dig enhver situation med tålmodighed og omhu.
-3. **Be considerate.** Tænk over, hvordan dit bidrag vil påvirke andre i samfundet.
-4. **Be open minded.** Omfavn nye mennesker og nye ideer. Vores samfund udvikler sig konstant, og vi glæder os over positive ændringer.
+3. **Vær hensynsfuld.** Tænk over, hvordan dit bidrag vil påvirke andre i samfundet.
+4. **Vær åben.** Omfavn nye mennesker og nye ideer. Vores samfund udvikler sig konstant, og vi glæder os over positive ændringer.
 
 Hvis du mener, at nogen overtræder code of conduct, beder vi dig om at rapportere det ved at sende en besked til en moderator (pruner). Angiv venligst dit navn og en beskrivelse af hændelsen, så vender vi tilbage ASAP.
-
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, this may result in a kick or temporary ban at the moderators' discretion. BE KIND!
 
 Deltagere bedt om at stoppe enhver chikanerende opførsel forventes at imødekomme straks. Hvis en deltager engagerer sig i chikanerende opførsel, kan dette resultere i en udelukkelse fra serveren. VÆR SØD!
 
