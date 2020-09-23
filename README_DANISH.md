@@ -23,7 +23,7 @@ Hej med dig! Velkommen til Coding Garden Discord server.
 Inden du kan få adgang til de resterende kanaler, så SKAL du intruducere dig selv i #🗣introductions (min. 40 tegn) og bekræfte at du har læst vores code of conduct ved at reagere med en emoji nedenunder 👇.
 
 Inden du sender din besked, vær venlig at bruge 30 sekunder på at finde ud af, hvilken kanal der passer bedst for din besked:
-**SEND IKK DEN SAMME BESKED I FLERE KANALER.** Vi vil se din besked og vende tilbage til dig, så snart vi har tid.
+**SEND IKKE DEN SAMME BESKED I FLERE KANALER.** Vi vil se din besked og vende tilbage til dig, så snart vi har tid.
 
 - Følg med i livestreams i #🔴live-chat
 - Del noget som du har arbejdet på i #🎨share_work
