@@ -28,7 +28,8 @@ The Coding Garden community has people that speak many different languages! You 
 * [x] Slovenian
 * [x] Russian
 * [x] Macedonian
-* [ ] Hindi-Urdu
+* [ ] Hindi
+* [ ] Urdu
 * [ ] French
 * [ ] Italian
 * [x] Turkish
