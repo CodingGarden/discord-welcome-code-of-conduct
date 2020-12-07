@@ -47,8 +47,8 @@ Registrací a odesíláním zpráv na tomto serveru souhlasíš s dodržováním
 
   Použij svůj nejlepší úsudek. Pokud to může být pro ostatní nepříjemné, nezveřejňuj to.
 
-2. **Buď uctiví.** Nesouhlas není příležitost k útoku na myšlenky nebo názory někoho jiného. Přestože se názory mohou lišit, nezapomeň přistupovat ke každé situaci s trpělivostí a péčí.
-3. **Buď ohleduplní.** Zamysli se nad tím, jak tvůj příspěvek ovlivní ostatní v komunitě.
+2. **Buď uctivý.** Nesouhlas není příležitost k útoku na myšlenky nebo názory někoho jiného. Přestože se názory mohou lišit, nezapomeň přistupovat ke každé situaci s trpělivostí a péčí.
+3. **Buď ohleduplný.** Zamysli se nad tím, jak tvůj příspěvek ovlivní ostatní v komunitě.
 4. **Buď objektivní.** Přijmi nové lidi a nové nápady. Naše komunita se neustále vyvíjí a vítáme pozitivní změnu.
 
 Pokud se domníváš, že někdo porušuje kodex chování, žádáme tě, abys jej nahlásil zasláním zprávy moderátorovi (pruner). Uveď prosím své jméno a popis incidentu a my se ti co nejdříve ozveme.
