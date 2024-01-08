@@ -9,6 +9,11 @@ Bevor du zu den anderen Channels Zugriff bekommst, musst du dich in #🗣introdu
 Bevor du eine Nachricht absendest, nimm dir bitte 30 Sekunden Zeit, um zu entscheiden, in welchen Channel diese Nachricht kommt:
 **SENDE NICHT DIESELBE NACHRICHT IN MEHRERE CHANNELS.** Wir werden deine Nachricht sehen und antworten, wenn wir Zeit haben.
 
+**Hilfe**
+* Lese ZUERST, bevor du eine Frage stellst ⁠📝read-first
+* Erstelle einen Beitrag im ⁠help-forum und füge die entsprechenden Tags für deine Frage hinzu. Erstelle keine mehrfachen Beiträge mit derselben Frage. Bitte frage nicht nach Hilfe in den Diskussionskanälen.
+
+**Diskussionen**
 * Verpasse keine Livestreams mit #🔴live-chat 
 * Teile deine Arbeit in #🎨share_work 
 * Teile Tutorials oder Artikel, die du nützlich gefunden hast, in #📖share_resources 
